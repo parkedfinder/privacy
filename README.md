@@ -1,6 +1,6 @@
 # Parked Privacy Policy
 
-*Effective October 19, 2026*
+*Effective October 14, 2026*
 
 Parked saves your parking pin, an optional photo, and an optional note **only on your device**, including the Parked Home Screen widget.
 
